@@ -1,0 +1,56 @@
+{
+  "currencies": [
+    {
+      "id": "1",
+      "code": "BRL",
+      "name": "Real",
+      "price": "1"
+    },
+    {
+      "id": "2",
+      "code": "ARS",
+      "name": "Peso",
+      "price": "0.05646"
+    },
+    {
+      "id": "3",
+      "code": "USD",
+      "name": "Dólar",
+      "price": "5.3079"
+    },
+    {
+      "id": "4",
+      "code": "EUR",
+      "name": "Euro",
+      "price": "6.4136"
+    },
+    {
+      "id": "5",
+      "code": "LBR",
+      "name": "Libra",
+      "price": "0.34"
+    },
+    {
+      "id": "6",
+      "code": "CNY",
+      "name": "Yuan",
+      "price": "0.8229"
+    }
+  ],
+  "conversions": [
+    {
+      "id": "c00fq2S",
+      "code": "BRL",
+      "name": "Real",
+      "value": "5.35",
+      "date": "02/11/2014"
+    },
+    {
+      "code": "BRL",
+      "name": "Real",
+      "value": "0.00",
+      "date": "17/05/2021",
+      "id": "xRk-Jxe"
+    }
+  ]
+}
